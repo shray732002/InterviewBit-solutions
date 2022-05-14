@@ -1,6 +1,5 @@
 # InterviewBit-solutions
 
-[My Interview Bit Profile](https://www.interviewbit.com/profile/shray-singh_395)
 
 ## Information
 
